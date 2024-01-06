@@ -23,3 +23,10 @@ Start the server with node app.js.
 
 Feel free to explore and use this project as a starting point for learning full-stack web development!
 for reference can look inti video provided:)
+Demo Video Link:
+https://drive.google.com/file/d/1H16YmukdPkE5-FbR_9MKH4QvfuIjn51m/view?usp=sharing
+
+Drive lonk for all the files: 
+https://drive.google.com/drive/folders/1WxmZbmeARQBgO3oztg5_cNNNw5HS46Qi?usp=drive_link
+
+
