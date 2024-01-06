@@ -10,9 +10,9 @@ Show Increment and Decrement: Real-time display of wallet balance changes.
 Make Purchase: Ability to make purchases, with validation for insufficient funds.
 Project Structure:
 
-app.js: Backend server code.
+Backend server code: app.js
 
-public/: Frontend files (HTML, CSS, JS).
+Frontend files/public : (HTML, CSS, JS).
 ## How to Run:
 
 Install Node.js.
@@ -22,3 +22,4 @@ Open a terminal, navigate to the project folder, and run npm install to install 
 Start the server with node app.js.
 
 Feel free to explore and use this project as a starting point for learning full-stack web development!
+for reference can look inti video provided:)
